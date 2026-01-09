@@ -1,0 +1,5 @@
+Initialize a high-end fintech dashboard.
+ Create a layout with a sidebar (Navigation) and a main content area.
+  Use a dark theme with #09090b as the background.
+   Include a header that says 'Financial Overview' and a placeholder area for a spending chart. 
+   Use Tailwind CSS for all styling.
